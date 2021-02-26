@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 * [Blog](https://azzammi.wordpress.com)
 * [Linkedin](https://www.linkedin.com/in/azzammi/)
 * [Telegram](http://t.me/luthfi_azzammi)
+
+## :link: My Latest Works
+* [Tailwind Components](https://tailwindcomponents.com/u/azzammi)
+* [Accounting Software](http://bs.srw.tas2019-176.com/)
