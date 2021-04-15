@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently in semester 6.   
 🌱 I’m currently build pos app with accounting module like MYOB.  
-🔭 I'm looking for a job, if you looking for web developer, maybe you can ping me 💻
+🔭 I'm currenty work fulltime at PT. Treetan Nusantara Network, if you looking for web developer, maybe you can ping me 💻
 ## 📫 How to reach me:
 * [Blog](https://azzammi.wordpress.com)
 * [Linkedin](https://www.linkedin.com/in/azzammi/)
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ## :link: My Latest Works
 * [Tailwind Components](https://tailwindcomponents.com/u/azzammi)
 * [Accounting Software](http://bs.srw.tas2019-176.com/)
+* [Marketplce Tour & Travel](https://treetan.com)
