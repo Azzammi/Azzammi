@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌱 I’m currently build pos app with accounting module like MYOB.  
 🔭 I'm currenty work fulltime at PT. Treetan Nusantara Network, if you looking for web developer, maybe you can ping me 💻
 ## 📫 How to reach me:
-* [Blog](https://azzammi.wordpress.com)
+* [Blog](https://azzammi.codes)
 * [Linkedin](https://www.linkedin.com/in/azzammi/)
 * [Telegram](http://t.me/luthfi_azzammi)
 
