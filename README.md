@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently in semester 6.   
+🌱 I'm Luthfi from indonesia and i like solving problem in the form of making application as solution. Currenty focusing on laravel and especially backend development, let me know if i can help you 
 🌱 I’m currently build pos app with accounting module like MYOB.  
 🔭 I'm currenty work fulltime at PT. Treetan Nusantara Network, if you looking for web developer, maybe you can ping me 💻
 ## 📫 How to reach me:
